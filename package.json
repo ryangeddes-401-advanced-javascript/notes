@@ -1,0 +1,31 @@
+{
+  "name": "notes",
+  "version": "0.0.1",
+  "description": "command line notekeeping app",
+  "main": "notes.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryangeddes-401-advanced-javascript/notes.git"
+  },
+  "keywords": [
+    "notify",
+    "notes",
+    "json"
+  ],
+  "author": "Ryan Geddes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryangeddes-401-advanced-javascript/notes/issues"
+  },
+  "homepage": "https://github.com/ryangeddes-401-advanced-javascript/notes#readme",
+  "dependencies": {
+    "minimist": "^1.2.5"
+  }
+}
