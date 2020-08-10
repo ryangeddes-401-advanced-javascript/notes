@@ -12,7 +12,7 @@
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [Phase 1 submission PR](https://github.com/ryangeddes-401-advanced-javascript/notes/pull/1)
 - [ci/cd](http://xyz.com) (GitHub Actions)
 <!-- - [back-end server url](http://xyz.com) (not applicable)
 - [front-end application](http://xyz.com) (not applicable) -->
