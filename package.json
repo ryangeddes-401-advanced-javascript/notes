@@ -8,7 +8,7 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/ryangeddes-401-advanced-javascript/notes#readme",
   "dependencies": {
+    "jest": "^26.4.0",
     "minimist": "^1.2.5"
   }
 }
