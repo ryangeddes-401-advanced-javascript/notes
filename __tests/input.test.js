@@ -19,7 +19,40 @@ describe('Input module', () => {
     expect(options.getAction()).toEqual('syntaxerror');
   });
 
+
+
 });
+
+//Given good input:
+// The Class’ valid() method returns true
+// The input module creates a new instance with both action and payload properties
+// Given invalid input:
+// The Class’ valid() method returns false
+//HINT: You will need to mock the minimist library so you can fake a user providing good and bad input
+
+describe('Notes module', () => {
+
+  // it('getAction() defaults to "syntaxerror" when no method is specified', () => {
+  //   let options = new Input();
+  //   expect(options.getAction()).toEqual('syntaxerror');
+  // });
+
+
+});
+
+//For the notes module tests, you will need to assert the following:
+// Nothing is logged to the console if there was no command given
+// If the command (add) and data (the note) were both valid, assert that the console shows the output.
+// HINT: You will need to use a spy to check that console.log was properly called
+
+
+
+
+
+
+
+
+//Scratch Work Below:
 
 
 
