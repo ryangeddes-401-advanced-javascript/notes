@@ -8,6 +8,6 @@ const input = new Input();
 const notes = new Notes(input);
 const output = notes.execute();
 
-console.log(output);
+console.log(`this is output: ${output}`);
 
 
